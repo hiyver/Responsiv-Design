@@ -1,0 +1,40 @@
+@media screen and (min-width: 420px) {
+body {
+background: purple; 
+margin: 2px;
+font-sze: 100px;
+}
+}
+
+h1 {
+font-size: 100px;
+}
+
+h2 {}
+
+img {
+
+max-width: 100%;
+
+}
+
+figure {
+
+margin: 0;
+}
+
+@media screen and (min-width: 794px) {
+
+body {
+
+background: pink; 
+margin: 5px;
+font-size: 
+hur byter man storlek på h1, h2, här och ovan
+}
+
+}
+
+#hh {
+font-size: 100px;
+}
